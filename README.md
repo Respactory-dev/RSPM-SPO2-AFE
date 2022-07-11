@@ -1,2 +1,2 @@
-# RSPM-SPO2-AFE-
+# RSPM-SPO2-AFE
 Respiratory SpO2 Module
